@@ -1,1 +1,1 @@
-# gitdemo
+# A very simple demo project 
